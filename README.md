@@ -197,11 +197,3 @@ Want to contribute to Wren AI? Check out our [Contribution Guidelines](https://g
 
 Please note that our [Code of Conduct](./CODE_OF_CONDUCT.md) applies to all Wren AI community channels. Users are **highly encouraged** to read and adhere to them to avoid repercussions.
 
-## 🎉 Our Contributors
-<a href="https://github.com/canner/wrenAI/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Canner/WrenAI" />
-</a>
-
-<p align="right">
-  <a href="#top">⬆️ Back to Top</a>
-</p>
